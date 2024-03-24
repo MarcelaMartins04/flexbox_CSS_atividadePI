@@ -1,0 +1,38 @@
+
+
+.base {
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+}
+
+.container {
+    background-color: #ceccccee ;
+    padding: 15px;
+    height:400px;
+    width: 600px;
+
+}
+
+
+.bloco1 {
+    background-color: #31d2ee;
+    height:100px;
+    width: 100px;
+   
+}
+.bloco2 {
+    background-color: #23204d;
+    height: 100px;
+    width: 100px;
+}
+.bloco3 {
+    background-color: #ee3150;
+    height: 100px;
+    width: 100px;
+}
+.bloco4 {
+    background-color: #f8e329;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,48 @@
+.flex-item {
+    width: 100px;
+    height: 100px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.base {
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+}
+
+.container {
+    background-color: #ceccccee ;
+    padding: 15px;
+    height:70px;
+    width: 600px;
+    display: flex;
+   flex-direction: row-reverse;
+   justify-content: flex-end;
+
+}
+
+
+.bloco1 {
+    background-color: #31d2ee;
+    height:70px;
+    width: 70px;
+   
+}
+.bloco2 {
+    background-color: #23204d;
+    height: 70px;
+    width: 70px;
+}
+.bloco3 {
+    background-color: #ee3150;
+    height: 70px;
+    width: 70px;
+}
+.bloco4 {
+    background-color: #f8e329;
+    height: 70px;
+    width: 70px;
+}
